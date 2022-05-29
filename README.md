@@ -1,4 +1,4 @@
-# La-Ronde-SQL
+# La-Ronde-SQL 🎡👫
 
 “La Ronde” is an amusement park, which is part of Six Flag’s Theme Park network,  and is situated in Saint Helen’s Island in Montreal spanning 146 acres. It is the largest amusement park in Quebec and the second-largest in Canada. La Ronde has 40 rides, including ten roller coasters, of which the most popular one is named Le Monstre, considered the highest double-tracked roller coaster in the world.
 
